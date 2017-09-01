@@ -1,5 +1,6 @@
 # unthrow
 
+[![NPM](https://nodei.co/npm/unthrow.png)](https://nodei.co/npm/unthrow/)
 [![Build Status](https://travis-ci.org/pcstl/unthrow.svg?branch=master)](https://travis-ci.org/pcstl/unthrow)
 ![Dependencies Status](https://david-dm.org/pcstl/unthrow.svg)
 
