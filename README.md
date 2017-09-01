@@ -1,6 +1,6 @@
 # unthrow
 
-![[Build Status](https://travis-ci.org/pcstl/unthrow)](https://travis-ci.org/pcstl/unthrow)
+[![Build Status](https://travis-ci.org/pcstl/unthrow.svg?branch=master)](https://travis-ci.org/pcstl/unthrow)
 ![Dependencies Status](https://david-dm.org/pcstl/unthrow.svg)
 
 [JavaScript Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
