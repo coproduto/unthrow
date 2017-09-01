@@ -1,0 +1,32 @@
+{
+  "name": "unthrow",
+  "version": "0.1.1",
+  "description": "Wrap APIs which throw errors and make them return Result objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint './*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcstl/unthrow.git"
+  },
+  "keywords": [
+    "promises",
+    "algebraic programming",
+    "error handling"
+  ],
+  "author": "Pedro Castilho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcstl/unthrow/issues"
+  },
+  "homepage": "https://github.com/pcstl/unthrow#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb-base": "^11.3.2",
+    "eslint-plugin-import": "^2.7.0",
+    "mocha": "^3.5.0"
+  }
+}
