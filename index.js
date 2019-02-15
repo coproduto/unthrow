@@ -1,11 +1,11 @@
 const unthrow = promise => promise
-  .then(result => ({
+  .then(value => ({
     status: 'Ok',
-    value: result,
+    value,
   }))
-  .catch(err => ({
+  .catch(error => ({
     status: 'Error',
-    error: err,
+    error,
   }));
 
 module.exports = unthrow;
